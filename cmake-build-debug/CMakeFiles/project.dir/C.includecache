@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/university/term 1/mabani/project/main.c
+stdio.h
+-
+stdlib.h
+-
+menu.h
+D:/university/term 1/mabani/project/menu.h
+nQueenSolve.h
+D:/university/term 1/mabani/project/nQueenSolve.h
+
+D:/university/term 1/mabani/project/menu.h
+
+D:/university/term 1/mabani/project/nQueenSolve.h
+

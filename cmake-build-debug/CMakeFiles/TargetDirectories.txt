@@ -1,0 +1,3 @@
+D:/university/term 1/mabani/project/cmake-build-debug/CMakeFiles/project.dir
+D:/university/term 1/mabani/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/university/term 1/mabani/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
